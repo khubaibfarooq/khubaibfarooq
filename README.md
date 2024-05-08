@@ -40,7 +40,22 @@ With a deep understanding of both front-end and back-end paradigms, I excel in c
       <p>Batching and Expiries</p>
       <p>Warehousing</p>
     </li>
-    <!-- Add more projects as needed -->
+        <li>
+      <strong>PET VETERINARY MULTI CLINIC System </strong>
+      <p>Full fills all the requirements of single and chain based clinics.  </p>
+      <p><a href="https://school.pakinnovations.com">PetClinic</a></p>
+      <p>Dashboard for appointment  with previous histories like vitals, vaccination ,drugs and  surgury</p>
+      <p>Deworming page</p>
+      <p>Billing</p>
+          <p> Different  discounts on  Memberships, coupons,MRP </p>
+        <p> Coupon with all discounts</p>
+        <p>Pet module</p>
+          <p>Doctor Module</p>
+         <p>Reference  Doctor Module</p>
+        <p>And many More Features</p>
+
+
+    </li>
   </ul>
 </section>
 
